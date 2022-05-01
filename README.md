@@ -2,7 +2,9 @@
 Я в настоящее время изучаю анализ данных на [Яндекс.Практикуме](https://practicum.yandex.ru/).
 В рамках обучения я выполнил несколько учебных проектов и некоторые из них представлены [здесь](https://github.com/MihVorontsov/da-projects).
 
-
+### Hi there, I'm Mikhail.
+I'm currently learning data analisys on [Yandex.Practicum](https://practicum.com/).
+I finished several education projects and [here](https://github.com/MihVorontsov/da-projects) are few of them.
 
 
 <!--
